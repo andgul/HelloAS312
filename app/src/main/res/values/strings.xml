@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloAS312</string>
+    <string name="hello_android_world">Hello Android World!</string>
+    <string name="dummy">Dummy</string>
+</resources>
